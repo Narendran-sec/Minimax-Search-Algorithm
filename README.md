@@ -12,7 +12,7 @@ To begin, let's start by defining what it means to play a perfect game of tic ta
 If I play perfectly, every time I play I will either win the game, or I will draw the game. Furthermore if I play against another perfect player, I will always draw the game.
 
 How might we describe these situations quantitatively? Let's assign a score to the "end game conditions:"
-
+ 
 I win, hurray! I get 10 points!
 I lose, shit. I lose 10 points (because the other player gets 10 points)
 I draw, whatever. I get zero points, nobody gets any points.
